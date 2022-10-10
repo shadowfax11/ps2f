@@ -1,4 +1,4 @@
-# PS2F
+# PS<sup>2</sup>F
 Code for "Ghanekar, Bhargav, et al. "PS $^{2} $ F: Polarized Spiral Point Spread Function for Single-Shot 3D Sensing." IEEE Transactions on Pattern Analysis and Machine Intelligence (2022)."
 
 ### Basic requirements:
