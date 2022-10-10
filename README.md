@@ -1,5 +1,5 @@
 # PS<sup>2</sup>F
-Code for "Ghanekar, Bhargav, et al. "PS $^{2} $ F: Polarized Spiral Point Spread Function for Single-Shot 3D Sensing." IEEE Transactions on Pattern Analysis and Machine Intelligence (2022)." [Paper](https://arxiv.org/abs/2207.00945)
+Code for "Ghanekar, Bhargav, et al. "PS $^{2} $ F: Polarized Spiral Point Spread Function for Single-Shot 3D Sensing." IEEE Transactions on Pattern Analysis and Machine Intelligence (2022)." [ArXiv Paper](https://arxiv.org/abs/2207.00945)
 
 ### Basic requirements:
 PyTorch (>= 1.9), NumPy, Scipy, Matplotlib
